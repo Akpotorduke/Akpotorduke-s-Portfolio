@@ -11,6 +11,7 @@ The total death rate stands at 4.13%, indicating the proportion of reported case
 The dashboard also highlights the top countries with active cases, including Italy, Germany, Spain, Iran, and China. Among these countries, China has reported the highest number of cases, while Zimbabwe has the lowest number of cases.
 
 Please note that the provided COVID-19 statistics are hypothetical and may not reflect the actual current situation. It's essential to refer to reliable sources such as the World Health Organization (WHO) or local health authorities for accurate and up-to-date information on COVID-19.
+![alt text](image/corona project.jpg)
 
 
 
