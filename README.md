@@ -13,6 +13,8 @@ The dashboard also highlights the top countries with active cases, including Ita
 Please note that the provided COVID-19 statistics are hypothetical and may not reflect the actual current situation. It's essential to refer to reliable sources such as the World Health Organization (WHO) or local health authorities for accurate and up-to-date information on COVID-19.
 
 
+
+
 ![corona project](https://github.com/Akpotorduke/Akpotorduke-s-Portfolio/assets/139318702/1e926493-d9a2-4a86-8478-31a8a85a2bed)
 
 
@@ -40,6 +42,8 @@ By applying various filters, the data is visualized and distributed to highlight
 Based on the table, it indicates that a total of 3 million rupees in revenue was generated, with a sales quantity of 3,520 units. The total profit margin achieved was 2.1 million rupees.)
 
 
+
+
 ![Sales project](https://github.com/Akpotorduke/Akpotorduke-s-Portfolio/assets/139318702/f6279038-3fe3-4396-b408-52ef53118e50)
 
 
@@ -48,4 +52,10 @@ Based on the table, it indicates that a total of 3 million rupees in revenue was
 
 This dashboard shows a complete array of expense, saving, income, and net worth generated averages these data show the area where money should be disbursed and how it also be saved, with a total revenue of 683k rupees of which 79% expenses and 14% savings generated a net income of 99k rupees which falls around 14%.
 
-It also shows a detailed report of a month-by-month analysis of all indices using the filter you are able to determine if saving or spending should be done and which portion should be left in liquid cash
+It also shows a detailed report of a month-by-month analysis of all indices using the filter you are able to determine if saving or spending should be done and which portion should be left in liquid cash.
+
+
+
+
+![Finance dashboard](https://github.com/Akpotorduke/Akpotorduke-s-Portfolio/assets/139318702/07ee62a5-a355-4859-8757-59c801c7282a)
+
