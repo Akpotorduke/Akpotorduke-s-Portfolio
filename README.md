@@ -1,6 +1,6 @@
 # Akpotorduke-s-Portfolio
 
-# [(Project 1: Business Entity Dashboard]
+# Project 1: Business Entity Dashboard
 
 This is a project that I did on master set for a business entity dashboard
 
