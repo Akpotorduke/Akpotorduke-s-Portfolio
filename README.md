@@ -11,6 +11,8 @@ The total death rate stands at 4.13%, indicating the proportion of reported case
 The dashboard also highlights the top countries with active cases, including Italy, Germany, Spain, Iran, and China. Among these countries, China has reported the highest number of cases, while Zimbabwe has the lowest number of cases.
 
 Please note that the provided COVID-19 statistics are hypothetical and may not reflect the actual current situation. It's essential to refer to reliable sources such as the World Health Organization (WHO) or local health authorities for accurate and up-to-date information on COVID-19.
+
+
 ![corona project](https://github.com/Akpotorduke/Akpotorduke-s-Portfolio/assets/139318702/1e926493-d9a2-4a86-8478-31a8a85a2bed)
 
 
@@ -36,6 +38,10 @@ Sales table(This sales table aims to analyze revenue, profit, and sales quantity
 By applying various filters, the data is visualized and distributed to highlight the distribution of these metrics. The use of percentage contributions facilitates a clear understanding of the visuals, enabling viewers to grasp the relative significance of each market's contribution.
 
 Based on the table, it indicates that a total of 3 million rupees in revenue was generated, with a sales quantity of 3,520 units. The total profit margin achieved was 2.1 million rupees.)
+
+
+![Sales project](https://github.com/Akpotorduke/Akpotorduke-s-Portfolio/assets/139318702/f6279038-3fe3-4396-b408-52ef53118e50)
+
 
 
 # Project 4: Managing Your Finance
