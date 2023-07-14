@@ -11,7 +11,7 @@ By utilizing the drill-through feature in Power BI, viewers have the ability to 
 The dashboard presents a summary of the workforce, highlighting key statistics. It shows that there are 16 departments within the organization, encompassing a total of 308 employees from 7 different countries.)
 
 
-# Project 2: Business Entity Dashboard
+# Project 2: Sales Dashboard
 
 This was part of a personal project and it was built in order to track the sales of specific items.
 
