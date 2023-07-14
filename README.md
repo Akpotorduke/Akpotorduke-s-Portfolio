@@ -18,4 +18,4 @@ This was part of a personal project and it was built in order to track the sales
 Sales table(This sales table aims to analyze revenue, profit, and sales quantity using various models and trends. It provides insights into the contribution of different markets in terms of revenue, profit contribution, and overall profit.
 By applying various filters, the data is visualized and distributed to highlight the distribution of these metrics. The use of percentage contributions facilitates a clear understanding of the visuals, enabling viewers to grasp the relative significance of each market's contribution.
 
-Based on the table, it indicates that a total of 3 million rupees in revenue was generated, with a sales quantity of 3,520 units. The total profit margin achieved was 2.1 million rupees.
+Based on the table, it indicates that a total of 3 million rupees in revenue was generated, with a sales quantity of 3,520 units. The total profit margin achieved was 2.1 million rupees.)
