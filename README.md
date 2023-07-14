@@ -32,7 +32,6 @@ The dashboard presents a summary of the workforce, highlighting key statistics. 
 
 
 
-
 ![business entity](https://github.com/Akpotorduke/Akpotorduke-s-Portfolio/assets/139318702/0f8403bd-4d52-4fc6-8d70-c3e02f9c7e46)
 
 
